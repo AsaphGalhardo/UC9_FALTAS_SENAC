@@ -17,5 +17,5 @@ for (l = 0; l <= 2; l++)
 
  for ()
 {
-    hd
+    hdd
 }
